@@ -76,7 +76,6 @@ def main():
         create_pdf("cards.pdf", image_paths)
     else:
         print("No images selected.")
-
+# Call the main function
 if __name__ == "__main__":
     main()
-
